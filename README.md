@@ -1,1 +1,1 @@
-Hello all, this is a test repo build for practice.
+This contains code for practice during lab sessions.
